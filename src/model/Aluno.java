@@ -4,7 +4,7 @@ public class Aluno {
 	private double notas[];
 	
 	public Aluno(double p1, double p2, double pp, double lab, double ex) {
-		notas = new double[5];
+		notas = new double[6];
 		notas[0] = p1;
 		notas[1] = p2;
 		notas[2] = pp;
